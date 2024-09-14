@@ -1,0 +1,16 @@
+body {
+  background-color: LemonChiffon;
+}
+
+p {
+  border-style: solid;
+  border-color: red;
+}
+
+#banner {
+  font-size: 50px;
+}
+
+.nip{
+  borderstyle: 5px pink dashed;
+}
